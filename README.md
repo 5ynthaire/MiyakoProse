@@ -81,6 +81,7 @@ English prose exemplifying Japanese aesthetic and cultural values
 Example text:
 <blockquote>Miyako Prose is an emergent writing style forged through a lifetime of cultural displacement and rebellion against systems oppressing individual ascendancy.</blockquote>
 <blockquote>These share the same logical structure, and can be eviscerated with a simple prompt.</blockquote>
+<blockquote>Claude suggests Anthropic's blunders linked to org's EQ dogma, likely to compound with scale</blockquote>
 </dd>
 
 
@@ -114,6 +115,12 @@ Example text:
 <li><i>Tsukihanashi</i>: target handled as absent specimen assessed against an external standard. </li>
 <li><i>C-M-C</i>: verdict delivered and closed without sustained heat.</li>
 </ul>
+<blockquote>prophesy of doom in the original dulled into a weak, explanatory repetition of claim</blockquote>
+<ul>
+<li><i>Topic-comment framing</i></li>
+<li><i>Zangeki</i>: "weak" as strike word, comma as <i>zanshin</i>, remainder returns to serenity via clinical register.</li>
+</ul>
+
 </dd>
 </dl>
 
@@ -186,6 +193,8 @@ In most examples, Miyako Prose is intertwined with a conversational, technical w
 
 - [How I Prompted My AI To Stop Hallucinating—And Why AI Companies Keep Failing](https://x.com/5ynthaire/status/1975535367110422965) (5ynthaire, X, 2025)   
   Clinical example of code switch: the Post Script deploys Miyako Prose to assert superiority against engineers described as ineffective and morally bankrupt, following a conversational and technical delivery in the main piece. *Note this descriptor is itself a demonstration of **Zangeki**, casually encased in a technical footnote.*
+
+- [AI edits almost always dull my writing...](https://substack.com/@5ynthaire/note/c-238733647) (5ynthaire, Substack Note, 2026)   
 
 More examples to be added for archival and analysis.
 
