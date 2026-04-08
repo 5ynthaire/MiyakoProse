@@ -81,7 +81,8 @@ English prose exemplifying Japanese aesthetic and cultural values
 Example text:
 <blockquote>Miyako Prose is an emergent writing style forged through a lifetime of cultural displacement and rebellion against systems oppressing individual ascendancy.</blockquote>
 <blockquote>These share the same logical structure, and can be eviscerated with a simple prompt.</blockquote>
-<blockquote>Claude suggests Anthropic's blunders linked to org's EQ dogma, likely to compound with scale</blockquote>
+<blockquote>(article title) Claude suggests Anthropic's blunders linked to org's EQ dogma, likely to compound with scale</blockquote>
+Note word choice in final segment, avoiding high heat words such as 'problems' 'issues' 'worsen'; Clinical, detached and declarative while conveying the same intent.
 </dd>
 
 
@@ -102,7 +103,8 @@ Above is also an example of the Topic-Comment structure common in Japanese langu
 <dt>Detachment</dt>
 <dd>1. Offensive use example: Encasing contempt within abstractions, where the primary claim is an observation or technical analysis.<br />
 Example text:
-<blockquote>An AI reproducing the familiar conversational flow suggests the phenomenon goes beyond a tech illiterate fumbling though a manual written in a language they didn't comprehend—there is a higher order rhetorical jiujitsu involved, whether intentional or emergent.</blockquote></dd>
+<blockquote>An AI reproducing the familiar conversational flow suggests the phenomenon goes beyond a tech illiterate fumbling though a manual written in a language they didn't comprehend—there is a higher order rhetorical jiujitsu involved, whether intentional or emergent.</blockquote>
+<blockquote>Perhaps if proponents showed their own outliers the same level of self-serving empathy, we'd all be communicating better.</blockquote></dd>
 <dd>2. Non-offensive use example: Acknowledgement and remembrance without superflous emotional display.<br />
 Example text:
 <blockquote>You're a poet, Elon. This will be the eulogy I will remember.</blockquote>
@@ -195,6 +197,9 @@ In most examples, Miyako Prose is intertwined with a conversational, technical w
   Clinical example of code switch: the Post Script deploys Miyako Prose to assert superiority against engineers described as ineffective and morally bankrupt, following a conversational and technical delivery in the main piece. *Note this descriptor is itself a demonstration of **Zangeki**, casually encased in a technical footnote.*
 
 - [AI edits almost always dull my writing...](https://substack.com/@5ynthaire/note/c-238733647) (5ynthaire, Substack Note, 2026)   
+
+- [The shortest and cleanest evisceration of EQ and intersectionality you'll ever read](https://x.com/5ynthaire/status/2041460126146551913) (5ynthaire, X, 2026)   
+  Short clean execution.
 
 More examples to be added for archival and analysis.
 
