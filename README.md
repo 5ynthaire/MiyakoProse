@@ -70,6 +70,11 @@ English prose exemplifying Japanese aesthetic and cultural values
 
   <dt><b>Rhythmic Stacking</b>, "Jo-Ha-Kyū", <i>Jo-ha-kyū</i> (<i>jo-ha-kyū</i>, 序破急)</dt>
   <dd>Stacking concepts in parallel, then resolving with a single decisive stroke.</dd>
+
+  <dt><b>Closure with Finality</b>, "Shimé", <i>Shimé</i> (<i>Shimé</i>, 締め、〆)</dt>
+  <dd>Sentences end with a noun clause with compounding adjectives and an intellectually dense word to signal finality.</dd>
+
+
 </dl>
 
 ## Manifestions and Example Text
@@ -108,6 +113,14 @@ Example text:
 <dd>2. Non-offensive use example: Acknowledgement and remembrance without superflous emotional display.<br />
 Example text:
 <blockquote>You're a poet, Elon. This will be the eulogy I will remember.</blockquote>
+
+<dt><i>Shimé</i> Closure with Finality</dt>
+<dd>Compounding adjectives and an intellectually dense word to signal finality<br />
+Example text:
+<blockquote>The style projects Japanese aesthetic and cultural values into English prose, infusing and reconstructing concepts previously thought to be unique to Japanese linguistic expression</blockquote>
+Compare ending with "Japanese language" or simply "Japanese".
+
+<blockquote>Your dichotomy of high minded and abstract vs grunt work glosses over the intellectual rigor and friction needed to build and sustain reliable complex systems.</blockquote></dd>
 
 <dt>Combined Deployment at Minimum Scale</dt>
 <dd>Demonstration of multiple mechanisms operating simultaneously.<br />
